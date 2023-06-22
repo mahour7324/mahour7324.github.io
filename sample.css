@@ -1,0 +1,76 @@
+.main-box{
+    height: 700px;
+    width: 1221px;
+    margin: 100px auto;
+    
+    
+}
+
+
+
+.top{
+    width: 1221px;
+    height: 164.444px;
+    background-color: rgb(255 224 0 / 84%);
+    text-align: center  ;
+    position: relative;
+    
+}
+    
+    
+
+.top> p{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 104px;
+    /* position: absolute; */
+    
+    
+    color: white;
+}
+    
+.middle{
+    width: 1221px;
+    height: 164.444px;
+    background-color: rgb(255 224 0 / 84%);
+    text-align: center  ;
+    padding-right: 136px;
+    
+}
+.middle .bi{
+    position: absolute;
+    font-size:   100px;
+    transform: rotate(85deg);
+    padding: 0 0;
+}
+
+.yello{
+    width: 1221px;
+    height: 148.444px;
+    background-color: rgb(255 224 0 / 84%);
+    text-align: center  ;
+    z-index: -1;
+    position: relative;
+
+}
+.red{
+    width: 1221px;
+    height: 148.444px;
+    background-color:#ff00008c;
+    z-index: 0;
+
+}
+
+
+
+.triangle{
+    width: 50px;
+    height: 50px;
+    border-left: 187px solid transparent;
+    border-right: 187px solid transparent;
+    border-top: 89px solid rgb(255 229 0 / 100%);
+    position: absolute;
+    left: 400px;
+    bottom: 0px;
+    position: relative;
+}
